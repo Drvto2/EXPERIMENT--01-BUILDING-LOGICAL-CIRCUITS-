@@ -3,6 +3,8 @@
 ## 1. Aim
 
 To design, implement, simplify, and verify combinational logic circuits using Boolean algebra and digital logic gates.
+<img width="1600" height="917" alt="WhatsApp Image 2026-10-27 at 2 23 54 PM" src="https://github.com/user-attachments/assets/901444f3-397c-4b2d-9d83-82dbea96bd88" />
+
 
 ## 2. Boolean Notation
 
@@ -17,6 +19,8 @@ Use the following notation throughout this experiment:
 | `A XNOR B` | XNOR | `A XNOR B` |
 
 **Important:** In these equations, `!` means NOT, `&` means AND, `|` means OR, and `^` means XOR. Parentheses determine the order of operations.
+<img width="1600" height="881" alt="WhatsApp Image 2026-10-27 at 2 21 42 PM" src="https://github.com/user-attachments/assets/d112670a-00b5-4406-a1a4-d679595d824f" />
+
 
 ## 3. Advanced Boolean Equations
 
@@ -32,6 +36,8 @@ F1 = (!A & B & C)
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
+<img width="1075" height="672" alt="image" src="https://github.com/user-attachments/assets/334ace64-3a2e-43f9-a6bb-375eb96d9710" />
+
 
 ### Equation 2: Product-of-Sums Circuit
 
@@ -69,6 +75,8 @@ F4 = ((A XOR B) & (C XNOR D))
 **Inputs:** A, B, C, D  
 **Output:** F4  
 **Challenge:** Compare an XOR/XNOR implementation with a basic-gate implementation.
+<img width="1073" height="572" alt="WhatsApp Image 2026-10-27 at 2 26 56 PM" src="https://github.com/user-attachments/assets/c7623c24-f309-4e97-b772-8e891ab62da4" />
+
 
 ### Equation 5: Five-Input Logic Function
 
