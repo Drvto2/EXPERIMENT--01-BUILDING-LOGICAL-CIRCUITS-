@@ -104,6 +104,8 @@ F6 = ((A | B) & !(C | D))
 **Inputs:** A, B, C, D, E, G  
 **Output:** F6  
 **Challenge:** Calculate gate count and logic depth. Verify all 64 input combinations.
+<img width="1052" height="742" alt="image" src="https://github.com/user-attachments/assets/27e5347d-2817-4704-866a-7ec42b73f46b" />
+
 
 ### Equation 7: NAND-NOR Hybrid Logic
 
