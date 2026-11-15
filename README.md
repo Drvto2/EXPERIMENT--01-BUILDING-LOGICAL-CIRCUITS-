@@ -131,6 +131,8 @@ F8 = ((A XOR B) & (C XNOR D))
 **Inputs:** A, B, C, D, E, F  
 **Output:** F8  
 **Challenge:** Simplify the expression, design the circuit, and verify all 64 input combinations.
+<img width="1157" height="737" alt="image" src="https://github.com/user-attachments/assets/ed89ddd7-ddda-416b-9cf1-71d0e708359d" />
+
 
 ## 4. Experimental Procedure
 
