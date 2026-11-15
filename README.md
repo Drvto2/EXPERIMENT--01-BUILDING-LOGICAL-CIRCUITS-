@@ -117,6 +117,8 @@ F7 = (! (A & B) & !(C | D))
 **Inputs:** A, B, C, D  
 **Output:** F7  
 **Challenge:** Implement the function using NAND and NOR gates with any required input inversions.
+<img width="1350" height="755" alt="image" src="https://github.com/user-attachments/assets/901e7605-c325-447e-95a8-b473dbb2c0f1" />
+
 
 ### Equation 8: Six-Input Advanced Combinational Logic
 
