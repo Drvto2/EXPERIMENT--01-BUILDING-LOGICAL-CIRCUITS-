@@ -90,6 +90,8 @@ F5 = (A & B & !C)
 **Inputs:** A, B, C, D, E  
 **Output:** F5  
 **Challenge:** Generate and verify all 32 input combinations.
+<img width="961" height="717" alt="image" src="https://github.com/user-attachments/assets/577864f7-35a0-4640-817b-0a8f9fd58f01" />
+
 
 ### Equation 6: Six-Input Mixed Logic
 
